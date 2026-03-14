@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Dynamic Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Pulok+Singha+👋;Full+Stack+Web+Developer+⚡;MERN+Stack+Enthusiast+🚀;Always+Learning%2C+Always+Building+💡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&height=60&lines=Hey+there!+I'm+Pulok+Singha+%F0%9F%91%8B;Full+Stack+Web+Developer+%E2%9A%A1;MERN+Stack+Enthusiast+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%92%A1" alt="Typing SVG" />
 
 <br/>
 
