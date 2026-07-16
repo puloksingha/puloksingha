@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./light.svg" />
-  <img alt="Premium GitHub Profile Hero" src="./dark.svg" width="100%" />
+  <img alt="Premium GitHub Profile Hero" src="https://pulok.vercel.app/profile-pulok.jpg" width="100%" />
 </picture>
 
 ## About Me
